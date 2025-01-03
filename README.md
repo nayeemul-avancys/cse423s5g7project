@@ -5,3 +5,4 @@ Group 7 Project Zone Shrinker
 3. multiple Special circles, one with multiple hitpoints, one that increases health, one that negates one missed circle, some will aim for the spaceship, one for powerups, one that progresses level
 4. Level progression:  scored based, after reaching a set goal score, level will progress 
 5. Powerup keyboard button but with limited counter:, limited bullets that shoots at multiple direction (handle using math.sin/cos(angles)), invincibility 
+6. 3 bullet miss on a level causes game over
